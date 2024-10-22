@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "SUPPORT",
+    "subNames": [
+      {
+        "name": "Contact our Stores",
+        "url": "#"
+      },
+      {
+        "name": "Delivery",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "OUR SERVICES",
+    "subNames": [
+      {
+        "name": "Decathlon for Schools",
+        "url": "#"
+      },
+      {
+        "name": "Decathlon for Corporates",
+        "url": "#"
+      },
+      {
+        "name": "Decathlon for Sport Clubs",
+        "url": "#"
+      },
+      {
+        "name": "Decathlon Gift Cards",
+        "url": "#"
+      },
+      {
+        "name": "Installation & Assembly Services",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "ABOUT US",
+    "subNames": [
+      {
+        "name": "Who we are",
+        "url": "#"
+      },
+      {
+        "name": "Decathlon CSR",
+        "url": "#"
+      },
+      {
+        "name": "Careers",
+        "url": "#"
+      },
+      {
+        "name": "Newsroom",
+        "url": "#"
+      },
+      {
+        "name": "Made In India",
+        "url": "#"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "LEGAL",
+    "subNames": [
+      {
+        "name": "Return Policy",
+        "url": "#"
+      },
+      {
+        "name": "Terms and Conditions",
+        "url": "#"
+      },
+      {
+        "name": "Privacy Policy",
+        "url": "#"
+      }
+    ]
+  }
+]

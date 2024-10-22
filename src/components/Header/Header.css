@@ -1,0 +1,17 @@
+.menu-open #hamburger-container span:first-child {
+  @apply m-0 rotate-45;
+}
+
+.menu-open #hamburger-container span:nth-child(2) {
+  @apply translate-x-1/2 opacity-0;
+}
+
+.menu-open #hamburger-container span:last-child {
+  @apply m-0 -rotate-45;
+}
+.sub-menu {
+  display: none;
+}
+.submenu-active .sub-menu {
+  display: block;
+}
